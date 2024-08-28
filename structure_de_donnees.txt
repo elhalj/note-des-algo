@@ -1,0 +1,5 @@
+1_ Tas binaire
+2_  abre de recherche
+3_ arbre fenwik
+4_ traversé de graphe
+5_ enveloppe convexe
